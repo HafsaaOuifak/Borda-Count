@@ -3,7 +3,7 @@ This is a Borda count imlementation in Python used to rank models based on the p
 This version allows to have the same rank to several methods if they had the same results.
 
 The results have been evaluated and presented in our paper:
-"On the performance and interpretability of Mamdani and Takagi-Sugeno-Kang based neuro-fuzzy systems for medical diagnosis" 
+## "On the performance and interpretability of Mamdani and Takagi-Sugeno-Kang based neuro-fuzzy systems for medical diagnosis" 
 
 You can cite it as:  
 
